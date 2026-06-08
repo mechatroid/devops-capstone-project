@@ -1,6 +1,6 @@
 # devops-capstone-project
 
-![Build Status](https://github.com/mechatroid/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+![Build Status](https://github.com/mechatroid/devops-capstone-project/actions/workflows/ci-build.yml/badge.svg)
 
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
